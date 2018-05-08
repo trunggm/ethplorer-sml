@@ -1,0 +1,1 @@
+geth --datadir "E:\Ethereum" --rpcaddr "0.0.0.0" --rpcport 8545 --rpc --syncmode "full" console
