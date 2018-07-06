@@ -8,9 +8,22 @@
   "dependencies": {
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
+    "ethereumjs-account": "^2.0.5",
+    "ethereumjs-block": "^1.7.1",
+    "ethereumjs-tx": "^1.3.4",
     "express": "~4.16.0",
     "http-errors": "~1.6.2",
+    "human-standard-token-abi": "^1.0.2",
+    "level": "^3.0.1",
+    "leveldown": "^3.0.2",
+    "levelup": "^2.0.2",
+    "merkle-patricia-tree": "^2.3.1",
+    "moment": "^2.22.1",
+    "mongodb": "^3.0.8",
     "morgan": "~1.9.0",
-    "pug": "2.0.0-beta11"
+    "pug": "2.0.0-beta11",
+    "rlp": "^2.0.0",
+    "web3": "^0.20.4",
+    "web3-eth-accounts": "^1.0.0-beta.34"
   }
 }
